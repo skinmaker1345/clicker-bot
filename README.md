@@ -91,4 +91,4 @@
     예시2:  ``버튼 이름``:``제거``:``역할``:``색``
     
  #### 위 사진의 버튼을 띄우는 명령어
-  - /automation roles ``구성``:``역할 추가:추가:test1,test2,test3:초록색&&역할 제거:제거:test1, test2, test3:빨간색&&더미:제거:Admin`` ``id``:``[채팅_ID]`` 
+  - /automation roles ``구성``:``역할 추가:추가:test1,test2,test3:초록색&&역할 제거:제거:test1, test2, test3:빨간색&&더미:제거:Admin`` ``id``:``[ID]`` 
